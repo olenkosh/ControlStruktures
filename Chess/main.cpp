@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 using namespace std;
 
 #define UPPER_LEFT_ANGLE   (char)218
@@ -26,7 +26,7 @@ setlocale(LC_ALL, "Russian");
 
 
 	int n;
-	cout << "Âåäèòå ðàçìåð äîñêè:"; cin >> n;
+	cout << "Ð’ÐµÐ´Ð¸Ñ‚Ðµ Ñ€Ð°Ð·Ð¼ÐµÑ€ Ð´Ð¾ÑÐºÐ¸:"; cin >> n;
 	setlocale(LC_ALL, "C");
 	for (int i = 0; i < n; i++)
 	{
